@@ -35,23 +35,3 @@ body {
   background-color: blueviolet;
   color: white;
 }
-
-#artigo {
-  padding: 20px;
-  background-color: lightsteelblue;
-  border: 1px solid;
-  border-radius: 8px;
-  display: flex;
-  line-height: 1.5;
-  font-weight: 400;
-}
-
-#descricao {
-  padding: 20px;
-  background-color: lightsteelblue;
-  border: 1px solid;
-  border-radius: 8px;
-  display: flex;
-  line-height: 1.5;
-  font-weight: 400;
-}
