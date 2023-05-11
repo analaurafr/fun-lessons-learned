@@ -37,27 +37,35 @@ body {
   color: white;
 }
 
-#artigo {
-  margin: 100px;
+.lado-esquerdo {
   padding: 10px;
   background-color: lightgray;
+  float: left;
+  padding-left: 50px;
+  margin-left: 50px;
+  position: absolute;
+  right: 450px;
+  left: 400px;
 }
 
-#descricao {
-  width: 30%;
-  padding-left: 50px;
+.lado-direito {
+  width: 20%;
+  padding-left: 10px;
   margin-left: 50px;
   float: right;
   font-style: italic;
   background-color: lightgray;
-  margin-top: 100px;
+  margin-top: 500px;
+  padding-right: 45px;
 }
 
-table, th, td {
-    padding: 5px;
-    background-color: lightsteelblue;
-    border: 1px solid;
-    border-radius: 8px;
-    line-height: 1.5;
-    font-weight: 400;
-  }
+table,
+th,
+td {
+  padding: 5px;
+  background-color: lightsteelblue;
+  border: 1px solid;
+  border-radius: 8px;
+  line-height: 1.5;
+  font-weight: 400;
+}
