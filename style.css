@@ -13,6 +13,7 @@ body {
 #titulo {
   font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
   color: white;
+  text-align: center;
 }
 
 #minha_foto {
@@ -28,4 +29,12 @@ body {
 #licoes_a_aprender {
   font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
   color: darkslategray;
+}
+
+#rodape {
+    text-align: center;
+    padding: 3px;
+    background-color: blueviolet;
+    color: white;
+    font-family: Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
 }
