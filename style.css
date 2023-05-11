@@ -35,3 +35,19 @@ body {
   background-color: blueviolet;
   color: white;
 }
+
+#artigo {
+  margin: 100px;
+  padding: 10px;
+  background-color: lightgray;
+}
+
+#descricao {
+  width: 30%;
+  padding-left: 50px;
+  margin-left: 50px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+  margin-top: 100px;
+}
