@@ -59,9 +59,7 @@ body {
   padding-right: 45px;
 }
 
-table,
-th,
-td {
+table , th , td {
   padding: 5px;
   background-color: lightsteelblue;
   border: 1px solid;
